@@ -1,6 +1,6 @@
-This is a Blender add-on to do a mass renaming of bones from and to several types of standard  armatures of 3D character models. It is intended to help save time in converting 3D character models and animations from one format to another. The supported armature types are:
-
 Now addon is fully compatible with Blender 2.92+
+
+This is a Blender add-on to do a mass renaming of bones from and to several types of standard  armatures of 3D character models. It is intended to help save time in converting 3D character models and animations from one format to another. The supported armature types are:
 
 MMD (MikuMikuDance) English
 XNALara
